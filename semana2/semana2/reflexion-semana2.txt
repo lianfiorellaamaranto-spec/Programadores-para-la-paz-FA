@@ -1,0 +1,8 @@
+La terminal es una herramienta muy importante para los desarrolladores porque permite trabajar de manera rápida y organizada dentro de un proyecto.
+Permite crear carpetas y archivos sin usar el mouse.
+Ayuda a ejecutar comandos de forma eficiente.
+Es fundamental para usar Git y controlar versiones.
+Facilita la automatización de tareas.
+Permite mayor control del sistema operativo.
+Mejora la productividad en proyectos de programación.
+Es una habilidad básica para cualquier desarrollador.
