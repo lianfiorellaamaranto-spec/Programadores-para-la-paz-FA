@@ -1,0 +1,13 @@
+Pruebas realizadas
+
+1. Ruta GET /
+Resultado: Muestra "Servidor activo".
+
+2. Ruta GET /saludo
+Resultado: Muestra un saludo.
+
+3. Ruta GET /mensaje/Juan
+Resultado: Muestra "Hola Juan".
+
+4. Ruta POST /reporte
+Resultado: Recibe el mensaje enviado en formato JSON y responde confirmando que el reporte fue recibido

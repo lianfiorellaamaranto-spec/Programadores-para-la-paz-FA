@@ -1,0 +1,8 @@
+En esta actividad aprendí a crear una API básica utilizando Express y Node.js.
+También comprendí cómo funcionan las rutas GET y POST.
+Aprendí a usar express.json() para recibir datos en formato JSON.
+Probé las rutas desde la terminal con el comando curl.
+Conocí la importancia del archivo package.json para el proyecto.
+Entendí por qué la carpeta node_modules no se suele subir a GitHub.
+Esta práctica me ayudó a comprender mejor cómo se comunican las aplicaciones con un servidor.
+Considero que estos conocimientos serán útiles para desarrollar proyectos web en el futuro.
