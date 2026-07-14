@@ -1,0 +1,25 @@
+Modelo de datos del sistema Petición en 3 Clics
+
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar la información de las causas comunitarias creadas por los ciudadanos.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los apoyos realizados por los ciudadanos para conocer la participación en cada causa.

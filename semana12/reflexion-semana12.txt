@@ -1,0 +1,8 @@
+Durante el curso aprendí que la tecnología puede ayudar a fortalecer la participación ciudadana mediante herramientas digitales organizadas.
+Aprendí la importancia de crear sistemas que permitan registrar información y facilitar la comunicación.
+Las bases de datos ayudan a guardar información de forma estructurada.
+La autenticación permite proteger los accesos y la privacidad de los usuarios.
+La automatización facilita procesos repetitivos y mejora la coordinación.
+Herramientas como Telegram y n8n permiten enviar notificaciones oportunas.
+También aprendí que es importante proteger los datos personales de la comunidad.
+La tecnología bien utilizada puede mejorar la organización y el trabajo colaborativo.
